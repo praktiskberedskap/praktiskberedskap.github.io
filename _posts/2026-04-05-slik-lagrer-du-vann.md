@@ -1,12 +1,14 @@
 ---
 layout: single 
 title: "Slik lagrer du vann"
+header:
+  image: /assets/images/vann-og-mat/glassflasker-med-vann-cover.jpg
+  teaser: /assets/images/vann-og-mat/glassflasker-med-vann-tmb.jpg
 categories: [vann-og-mat]
 tags: [vann]
 ---
 **Et døgn uten vann er håndterbart, men ikke spesielt behagelig. Hva hvis vannet blir borte flere dager, en uke eller enda lengre? Hva gjør du da?**
-<br><br>
-<!--more-->
+
 På kvelden 1. august 2022 forsvant plutselig vannet for flere hundre innbyggere i Glåmos utenfor Røros. En av grunnvannspumpene i den kommunale vanntilførselen havarerte og kuttet dermed vannet for hele området. Heldigvis kom vannet tilbake igjen etter litt over et døgn når kommunen fikk tak i ny pumpe.
 
 Et døgn uten vann er håndterbart, men ikke spesielt behagelig. Hva hvis vannet blir borte flere dager, en uke eller enda lengre? Hva gjør du da?
