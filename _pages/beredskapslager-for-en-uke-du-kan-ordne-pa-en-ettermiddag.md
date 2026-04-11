@@ -27,7 +27,7 @@ Du kan for eksempel kjøpe 5-liters flasker med vann i mange vanlige matbutikker
 ##  Mat
 Den enkleste måten å sørge for at du har mat i beredskap for en uke er rett og slett å ligge i forkant med innkjøp. Kjøp inn ekstra av maten du vanligvis bruker og bygg opp et lite lager. Pass på at du rullerer matvarene. Bruk det som er nærmest utløpsdato først.
 
-<div class="box-note">
+<div class="notice--info">
   <p style="font-weight: bold;">Et par ting du må være oppmerksom på:</p>
   <ul>
     <li>Mye av maten må kunne lagres i romtemperatur, i tilfelle strømmen blir borte</li>
