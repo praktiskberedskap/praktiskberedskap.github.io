@@ -1,6 +1,8 @@
 ---
 layout: single
 title: 1 ukes beredskapslager
+header:
+  image: /assets/en-ukes-beredskapslager.jpg
 permalink: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
 ---
 **Synes du beredskapslager høres ut som mye jobb å få på plass? Er du redd for at det koster for mye, eller at du ikke har plass nok? Finn ut hvordan du raskt og rimelig lager et grunnleggende beredskapslager for en uke.**
