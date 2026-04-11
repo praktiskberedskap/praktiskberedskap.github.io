@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Vann og mat"
-    url: /categories/vann-og-mat/
+  - title: "Beredskapstemaer"
+    children:
+      - title: "Vann og mat"
+        url: /categories/vann-og-mat/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
