@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Hjem"
+    url: /
   - title: "Beredskapstemaer"
     url: "#"
     children:
