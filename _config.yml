@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
-locale                   : "nb-NO"
+locale                   : "no-NB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Praktisk beredskap"
 title_separator          : "-"
