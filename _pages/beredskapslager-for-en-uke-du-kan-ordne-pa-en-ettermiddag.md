@@ -3,7 +3,7 @@ layout: single
 title: 1 ukes beredskapslager
 header:
   overlay_image: /assets/images/en-ukes-beredskapslager.jpg
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_color: "#333"
 permalink: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
 ---
