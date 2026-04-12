@@ -11,3 +11,22 @@
   border-bottom: 0;
   // border-bottom: 1px solid #cecfd1;
 }
+// Begrens grid til maks 2 kolonner
+.grid__wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+// 1 kolonne på mobil
+@media (max-width: 600px) {
+  .grid__wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Sørg for at grid__item fyller hele cellen
+.grid__wrapper .grid__item {
+  width: 100%;
+  float: none;
+}
