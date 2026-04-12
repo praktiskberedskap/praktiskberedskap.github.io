@@ -2,6 +2,8 @@
 main:
   - title: "Hjem"
     url: /
+  - title: "Kom i gang"
+    url: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
   - title: "Beredskapstemaer"
     url: "#"
     children:
