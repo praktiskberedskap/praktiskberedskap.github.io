@@ -14,8 +14,8 @@ Et døgn uten vann er håndterbart, men ikke spesielt behagelig. Hva hvis vannet
 
 Det er faktisk ikke så vanskelig å lagre vann nok for en uke, og med litt ekstra innsats kan du sikre deg og familien tilgang på vann for lengre perioder.
 
-<div class="box-note">
-<span style="font-weight: bold;">I artikkelen er det tre nivåer for å lagre vann: Bra, bedre og best.</span>
+<div class="notice--info">
+<span style="font-weight: bold;">Artikkelen er delt opp i tre deler : Bra, bedre og best.</span>
 <ul>
 <li>Bra - for deg som er helt i startgropa og vil skaffe deg vann på enkleste og rimeligste måte.</li>
 <li>Bedre - for deg som vil gjøre det litt mer grundig og kanskje også lagre for mer enn en uke. </li>
