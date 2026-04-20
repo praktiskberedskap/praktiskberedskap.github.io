@@ -75,3 +75,23 @@ Vannet bør lagres på et mørkt og kjølig sted uten direkte sollys. Det bør h
 Gratulerer, du har nå sikret deg godt og trygt drikkevann hvis vannet i springen blir borte eller forurenset.
 
 ## Best - for deg som vil gå "all in" og se på filtrering av vann og lignende, i tillegg til bare lagring.
+Vil du gå videre i forhold til lagring av vann så er det i hvert fall to ting å vurdere:
+
+* Lagre større mengder vann
+* Utstyr for rensing av vann
+
+### Lagre større mengder vann
+Har du stor frostfri lagringsplass er det mulig å lagre større mengder vann. Det finnes forskjellige tanker fra rundt 100 liter og oppover.
+
+BILDE
+
+Det er fortsatt viktig å sjekke at tanken er godkjent for oppbevaring av drikkevann, og den bør fortsatt vaskes og desinfiseres før bruk. Pass på at det er en litt stor åpning slik at det er mulig å få vasket uten for store problemer.
+
+Det finnes større tanker med tappekran, men vær oppmerksom på at det ofte er et svakt punkt og at det kan oppstå lekkasjer. En grei måte å hente ut vannet på er å bruke en hevert. https://no.wikipedia.org/wiki/Hevert
+
+### Utstyr for rensing av vann
+Mange har tilgang på vann i nærområdet, men problemet er at det kan være forurenset. Løsningen da er å filtrere vannet slik at det blir trygt å drikke. Det finnes både enklere bærbare løsninger og mer permanente opplegg.
+
+De fleste filtrene fungerer ved hjelp av tyngdekraft. Vannet fylles på øverst og når det renner nedover mot bunnen passerer det flere forskjellige typer filtre som fjerner urenheter slik at det blir trygt å drikke. Hent vann i bekken, fyll det på filteret på kjøkkenet, og noen timer senere har du helt rent vann du kan drikke eller fylle på flasker for senere bruk.
+
+Det finnes også enklere og mindre løsninger beregnet til turbruk og nødbruk hjemme. De egner seg ikke til daglig bruk over lengre tid, men i en nødsituasjon fungerer det bra.
