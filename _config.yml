@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Praktisk beredskap"
 description              : "Alt du trenger for å komme i gang med egenberedskap"
-url                      : "https://praktiskberedskap.github.io"
+url                      : "https://praktiskberedskap.no"
 baseurl                  : ""
 repository               : "praktiskberedskap/praktiskberedskap"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
