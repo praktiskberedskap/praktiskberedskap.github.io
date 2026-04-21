@@ -9,33 +9,36 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import "custom"; // private styles
 
-// drop down menu
+/* Dropdown meny */
 .has-dropdown {
   position: relative;
+}
 
-  .dropdown {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background: #fff;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-    min-width: 180px;
-    z-index: 100;
-    list-style: none;
-    padding: 0.5em 0;
-    margin: 0;
+.has-dropdown .dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  min-width: 180px;
+  z-index: 100;
+  list-style: none;
+  padding: 0.5em 0;
+  margin: 0;
+}
 
-    li a {
-      display: block;
-      padding: 0.4em 1em;
-      white-space: nowrap;
-      &:hover { background: #f2f2f2; }
-    }
-  }
+.has-dropdown .dropdown li a {
+  display: block;
+  padding: 0.4em 1em;
+  white-space: nowrap;
+}
 
-  &.open .dropdown {
-    display: block;
-  }
+.has-dropdown .dropdown li a:hover {
+  background: #f2f2f2;
+}
+
+.has-dropdown.open .dropdown {
+  display: block;
 }
 
