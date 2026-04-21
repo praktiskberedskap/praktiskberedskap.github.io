@@ -12,10 +12,23 @@
 
         if (!isOpen) {
           e.preventDefault();
+          e.stopPropagation();
           var dropdown = parent.querySelector(".dropdown");
-          var rect = parent.getBoundingClientRect();
-          dropdown.style.top = rect.bottom + "px";
-          dropdown.style.left = rect.left + "px";
+
+          if (parent.closest(".hidden-links")) {
+            // Mobil: vis inline under menypunktet
+            dropdown.style.position = "static";
+            dropdown.style.boxShadow = "none";
+            dropdown.style.minWidth = "auto";
+            dropdown.style.background = "transparent";
+          } else {
+            // Desktop: vis med fixed posisjonering
+            var rect = parent.getBoundingClientRect();
+            dropdown.style.position = "fixed";
+            dropdown.style.top = rect.bottom + "px";
+            dropdown.style.left = rect.left + "px";
+          }
+
           parent.classList.add("open");
         }
       });
