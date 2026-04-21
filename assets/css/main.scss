@@ -41,4 +41,12 @@ search: false
 .has-dropdown.open .dropdown {
   display: block;
 }
+.greedy-nav {
+  position: relative;
+  z-index: 1000;
+}
+
+.has-dropdown .dropdown {
+  z-index: 1001;
+}
 
