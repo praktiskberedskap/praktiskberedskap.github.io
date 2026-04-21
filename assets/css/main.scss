@@ -10,19 +10,13 @@ search: false
 @import "custom"; // private styles
 
 /* Dropdown meny */
-.has-dropdown {
-  position: relative;
-}
-
 .has-dropdown .dropdown {
   display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
+  position: fixed;
   background: #fff;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
   min-width: 180px;
-  z-index: 100;
+  z-index: 99999;
   list-style: none;
   padding: 0.5em 0;
   margin: 0;
@@ -41,16 +35,5 @@ search: false
 .has-dropdown.open .dropdown {
   display: block;
 }
-.greedy-nav {
-  position: relative;
-  z-index: 1000;
-}
 
-.has-dropdown .dropdown {
-  z-index: 1001;
-}
-
-.masthead {
-  z-index: 9999 !important;
-}
 
