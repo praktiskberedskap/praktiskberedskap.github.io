@@ -9,6 +9,8 @@ main:
     children:
       - title: "Vann og mat"
         url: /categories/vann-og-mat/
+      - title: "Lys og varme"
+        url: /categories/lys-og-varme/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
