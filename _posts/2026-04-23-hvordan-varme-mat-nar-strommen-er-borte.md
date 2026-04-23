@@ -2,7 +2,7 @@
 layout: single 
 title: "Hvordan varme mat når strømmen er borte"
 header:
-  image: /assets/images/lys-og-varme/gryte-pa-gassplate-cover.jpg
+  image: /assets/images/lys-og-varme/gryte-pa-gassplate-cover-2.jpg
   teaser: /assets/images/lys-og-varme/gryte-pa-gassplate-tmb.jpg
 excerpt: "I en krisesituasjon uten strøm går det greit å spise kald mat noen dager, men over lengre tid er det best å få varmet maten. Her er noen gode alternativer"
 categories: [lys-og-varme]
