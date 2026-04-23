@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/images/en-ukes-beredskapslager.jpg
   overlay_filter: "0.1"
   overlay_color: "#333"
-permalink: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
+permalink: /takk/
 ---
 **Takk for at du meldte deg på nyhetsbrevet.**
 
