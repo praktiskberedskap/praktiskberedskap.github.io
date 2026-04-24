@@ -14,7 +14,7 @@
 // Begrens grid til maks 2 kolonner
 .grid__wrapper {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(  4, 1fr);
   gap: 1.5rem;
 }
 
