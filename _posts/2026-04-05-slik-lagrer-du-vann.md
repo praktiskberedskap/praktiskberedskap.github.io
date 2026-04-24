@@ -30,6 +30,8 @@ Direktoratet for samfunnssikkerhet og beredskap (DSB) anbefaler cirka 3 liter pe
 * Samle sammen brukte brusflasker eller saftflasker. Vask dem med varmt vann og litt oppvaskmiddel, skyll grundig og fyll helt opp med kaldt vann. Merk dem gjerne med når de ble fylt opp.
 * Kjøp inn 5-liters flasker med vann i matbutikken, Biltema, Europris eller lignende
 
+![5-liters vannflasker med vann](/assets/images/vann-og-mat/vannflasker-5-liter.jpg)
+
 Vann holder seg best når det ikke blir utsatt for mye lys og varme, så forsøk å lagre det mørkt og kjølig hvis du har mulighet.
 
 Har du lite ekstra lagringsplass så tenk kreativt. Under senger, bak sofa, nederst i klesskap eller i kott under trappa fungerer helt fint.
