@@ -85,7 +85,6 @@ Vil du gå videre i forhold til lagring av vann så er det i hvert fall to ting 
 ### Lagre større mengder vann
 Har du stor frostfri lagringsplass er det mulig å lagre større mengder vann. Det finnes forskjellige tanker fra rundt 100 liter og oppover.
 
-![Vannflasker med 20 liter vann](/assets/images/vann-og-mat/vannflasker-5-liter-eldorado.jpg)
 
 Det er fortsatt viktig å sjekke at tanken er godkjent for oppbevaring av drikkevann, og den bør fortsatt vaskes og desinfiseres før bruk. Pass på at det er en litt stor åpning slik at det er mulig å få vasket uten for store problemer.
 

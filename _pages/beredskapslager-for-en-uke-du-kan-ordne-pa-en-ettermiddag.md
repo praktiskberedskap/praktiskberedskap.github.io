@@ -23,6 +23,8 @@ Vi trenger cirka 3 liter vann hver dag. Det dekker behovet for drikke, matlaging
 
 Du kan for eksempel kjøpe 5-liters flasker med vann i mange vanlige matbutikker eller på Biltema, Europris og lignende butikker. Har du lite lagringsplass kan du bruke ledig plass under senger, i bunnen av klesskap og lignende.
 
+![Vannflasker med 20 liter vann](/assets/images/vannflasker-5-liter-eldorado.jpg)
+
 **Når vannet er på plass er du klar for det nest viktigste:**
 ##  Mat
 Den enkleste måten å sørge for at du har mat i beredskap for en uke er rett og slett å ligge i forkant med innkjøp. Kjøp inn ekstra av maten du vanligvis bruker og bygg opp et lite lager. Pass på at du rullerer matvarene. Bruk det som er nærmest utløpsdato først.
