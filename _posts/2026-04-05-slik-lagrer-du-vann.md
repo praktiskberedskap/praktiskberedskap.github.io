@@ -85,6 +85,7 @@ Vil du gå videre i forhold til lagring av vann så er det i hvert fall to ting 
 ### Lagre større mengder vann
 Har du stor frostfri lagringsplass er det mulig å lagre større mengder vann. Det finnes forskjellige tanker fra rundt 100 liter og oppover.
 
+![Vanndunk på cirka 100 liter](/assets/images/vann-og-mat/vanndunk-cirka-100-liter.jpg)
 
 Det er fortsatt viktig å sjekke at tanken er godkjent for oppbevaring av drikkevann, og den bør fortsatt vaskes og desinfiseres før bruk. Pass på at det er en litt stor åpning slik at det er mulig å få vasket uten for store problemer.
 
