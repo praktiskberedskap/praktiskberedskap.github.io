@@ -50,6 +50,8 @@ Den enkleste måten å sørge for at du har mat i beredskap for en uke er rett o
 
 Da er det bare et punkt igjen før det grunnleggende beredskapslageret er på plass.
 
+![Komplett 1 ukes beredskapslager for en person](/assets/images/1-ukes-beredskapslager-komplett/.jpg)
+
 ## Lys og varme
 
 Blir strømmen borte over flere dager i juni eller juli er ikke behovet for lys og varme så stort her i Norge. Skjer det i vinterhalvåret er situasjonen en helt annen.
