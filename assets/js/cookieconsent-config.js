@@ -20,13 +20,6 @@ CookieConsent.run({
           { name: '_gid' }
         ]
       }
-    },
-    marketing: {
-      autoClear: {
-        cookies: [
-          { name: /^_gcl/ }
-        ]
-      }
     }
   },
 
@@ -68,11 +61,6 @@ CookieConsent.run({
               title: 'Analyse (Google Analytics 4)',
               description: 'Hjelper oss å forstå hvordan besøkende bruker siden. Dataene er anonymiserte.',
               linkedCategory: 'analytics'
-            },
-            {
-              title: 'Markedsføring',
-              description: 'Brukes til å vise relevante annonser på tvers av nettsteder.',
-              linkedCategory: 'marketing'
             }
           ]
         }
@@ -87,8 +75,8 @@ function updateGoogleConsent(categories) {
     'analytics_storage':       categories.includes('analytics') ? 'granted' : 'denied',
     'functionality_storage':   categories.includes('analytics') ? 'granted' : 'denied',
     'personalization_storage': categories.includes('analytics') ? 'granted' : 'denied',
-    'ad_storage':              categories.includes('marketing') ? 'granted' : 'denied',
-    'ad_user_data':            categories.includes('marketing') ? 'granted' : 'denied',
-    'ad_personalization':      categories.includes('marketing') ? 'granted' : 'denied',
+    'ad_storage':              'denied', // alltid avvist
+    'ad_user_data':            'denied', // alltid avvist
+    'ad_personalization':      'denied', // alltid avvist
   });
 }
