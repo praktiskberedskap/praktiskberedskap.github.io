@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "no-NB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Hjelp til egenberedskap"
+title                    : "Praktisk beredskapT"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Praktisk beredskap"
+name                     : "Praktisk beredskapN"
 description              : "Alt du trenger for å komme i gang med egenberedskap"
 url                      : "https://praktiskberedskap.no"
 baseurl                  : ""
