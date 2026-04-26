@@ -11,6 +11,6 @@ permalink: /nyhetsbrev/
 ## Meld deg på nyhetsbrevet
 Her kommer tekst 
 
-<script async data-uid="684caa9630" src="https://praktiskberedskap.kit.com/684caa9630/index.js"></script>
+<script async data-uid="72641b2b93" src="https://praktiskberedskap.kit.com/72641b2b93/index.js"></script>
 
 Og er er tekst etter skjemaet
