@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Takk
+robots: "noindex, nofollow"
 header:
   overlay_image: /assets/images/en-ukes-beredskapslager.jpg
   overlay_filter: "0.1"
