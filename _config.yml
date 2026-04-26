@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "no-NB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Praktisk beredskapT"
+title                    : "Hjelp til egenberedskap"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Praktisk beredskapN"
+name                     : "Praktisk Beredskap"
 description              : "Alt du trenger for å komme i gang med egenberedskap"
 url                      : "https://praktiskberedskap.no"
 baseurl                  : ""
 repository               : "praktiskberedskap/praktiskberedskap"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Praktisk Beredskap"
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
