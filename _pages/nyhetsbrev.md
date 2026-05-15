@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Hold deg oppdatert
+excerpt: "Meld deg på nyhetsbrevet og bli oppdatert om beredskap"
 header:
   overlay_image: /assets/images/en-ukes-beredskapslager.jpg
   overlay_filter: "0.1"
