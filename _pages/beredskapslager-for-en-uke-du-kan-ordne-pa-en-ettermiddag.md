@@ -9,6 +9,12 @@ permalink: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
 ---
 **Synes du beredskapslager høres ut som mye jobb å få på plass? Er du redd for at det koster for mye, eller at du ikke har plass nok? Finn ut hvordan du raskt og rimelig lager et grunnleggende beredskapslager for en uke.**
 
+<a href="/assets/downloads/beredskapslager-1-uke.pdf" 
+   download 
+   class="btn btn--primary btn--large">
+  <i class="fas fa-file-pdf"></i> Sjekkliste for en ukes beredskapslager
+</a>
+
 ## Du trenger faktisk ikke veldig mye for å komme i gang
 Skaffer du litt ekstra vann og mat sammen med tilgang til lys og varme så er mye gjort. 
 
@@ -80,3 +86,9 @@ I alle disse situasjonene vil et enkelt beredskapslager med de grunnleggende tin
 I tillegg til å dekke de fysiske behovene har det også en mental fordel. Du slipper å bekymre deg for hva du skal gjøre hvis en krisesituasjon oppstår, siden du har det grunnleggende på plass.
 
 **Start allerede i dag. Ta et punkt av gangen, og i løpet av kort tid, en ettermiddag hvis du er effektiv, vil du ha et basislager på plass. Lykke til!**
+
+<a href="/assets/downloads/beredskapslager-1-uke.pdf" 
+   download 
+   class="btn btn--primary btn--large">
+  <i class="fas fa-file-pdf"></i> Last ned sjekkliste for en ukes beredskapslager
+</a>
