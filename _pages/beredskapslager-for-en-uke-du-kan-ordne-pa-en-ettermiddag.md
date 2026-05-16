@@ -12,7 +12,7 @@ permalink: /beredskapslager-for-en-uke-du-kan-ordne-pa-en-ettermiddag/
 <a href="/assets/downloads/beredskapslager-1-uke.pdf" 
    download 
    class="btn btn--primary btn--large">
-  <i class="fas fa-file-pdf"></i> Sjekkliste for en ukes beredskapslager
+  <i class="fas fa-file-pdf"></i> Last ned sjekkliste for en ukes beredskapslager
 </a>
 
 ## Du trenger faktisk ikke veldig mye for å komme i gang
