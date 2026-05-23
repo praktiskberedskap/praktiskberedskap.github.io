@@ -2,7 +2,7 @@
 layout: single 
 title: "Mental egenberedskap og resiliens"
 header:
-  image: /assets/images/mental-beredskap/mental-beredskap-og-resiliens.jpg
+  image: /assets/images/mental-beredskap/mental-beredskap-og-resiliens-v2.jpg
   teaser: /assets/images/vann-og-mat/glassflasker-med-vann-tmb.jpg
 excerpt: "Har du tenkt over at mental beredskap også er viktig? Her er en kort introduksjon til stresslære og resiliens"
 categories: [mental-beredskap]
