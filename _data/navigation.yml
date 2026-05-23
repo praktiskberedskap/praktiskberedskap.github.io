@@ -11,6 +11,8 @@ main:
         url: /categories/vann-og-mat/
       - title: "Lys og varme"
         url: /categories/lys-og-varme/
+      - title: "Mental beredskap"
+        url: /categories/mental-beredskap/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
