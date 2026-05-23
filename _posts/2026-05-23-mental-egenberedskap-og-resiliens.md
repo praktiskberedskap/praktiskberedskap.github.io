@@ -3,7 +3,7 @@ layout: single
 title: "Mental egenberedskap og resiliens"
 header:
   image: /assets/images/mental-beredskap/kvinne-med-utfordringer-sitter-ved-stein-cover.jpg
-  teaser: /assets/images/vann-og-mat/kvinne-med-utfordringer-sitter-ved-stein-tmb.jpg
+  teaser: /assets/images/mental-beredskap/kvinne-med-utfordringer-sitter-ved-stein-tmb.jpg
 excerpt: "Har du tenkt over at mental beredskap også er viktig? Her er en kort introduksjon til stresslære og resiliens"
 categories: [mental-beredskap]
 tags: [resiliens]
