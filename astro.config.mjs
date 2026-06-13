@@ -47,7 +47,9 @@ export default defineConfig({
 		react(),
 		icon(),
 		...(process.env.NODE_ENV !== 'production' ? [keystatic()] : []),
-		sitemap(),
+		sitemap({
+            filter: (page) => !page.includes('/tags/'),
+        }),
 		compress({
 			HTML: true,
 			JavaScript: true,
