@@ -28,10 +28,7 @@ const navConfig: navItem[] = [
             };
         }),
     },
-    {
-        text: "Om",
-        link: "/om/",
-    },
+    
 ];
 
 export default navConfig;
