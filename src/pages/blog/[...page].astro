@@ -11,7 +11,7 @@ export async function getStaticPaths({ paginate }) {
 	const posts = await getAllPosts(defaultLocale);
 
 	return paginate(posts, {
-		pageSize: 2,
+		pageSize: 8,
 	});
 }
 
