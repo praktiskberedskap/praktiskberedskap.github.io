@@ -1,0 +1,55 @@
+---
+import Button from "@components/Button/Button.astro";
+import { getLocaleFromUrl } from "@js/localeUtils";
+import { useTranslations } from "@js/translationUtils";
+import { Image } from "astro:assets";
+
+const currLocale = getLocaleFromUrl(Astro.url);
+const t = useTranslations(currLocale);
+
+import heroImage from "@assets/images/emergency-planning-new.png";
+---
+
+<section
+	id="hero"
+	class="from-primary-200/10 via-primary-300/40 to-primary-600/60 relative flex min-h-[40svh] w-full bg-gradient-to-b from-10% via-60% py-14 md:pb-1"
+>
+	<!-- Shape divider https://www.shapedivider.app/ -->
+	<div class="custom-shape-divider-bottom">
+		<svg
+			data-name="Layer 1"
+			xmlns="http://www.w3.org/2000/svg"
+			viewBox="0 0 1200 120"
+			preserveAspectRatio="none"
+		>
+			<path
+				d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z"
+				class="shape-fill"></path>
+		</svg>
+	</div>
+
+	<!-- hero items -->
+	<div
+		class="site-container mx-auto grid max-w-5xl items-center gap-10 pt-20 pb-6 md:grid-cols-3 md:pt-10 md:pb-6""
+	>
+		<!-- Hero text -->
+		<div
+			class="mx-auto max-w-3xl gap-8 text-center md:col-span-2 md:text-left"
+			data-aos="fade-down"
+		>
+			<h1 class="text-5xl font-semibold md:text-6xl">
+				Praktisk Beredskap
+			</h1>
+			<p class="description mx-auto mt-6 max-w-xs text-pretty sm:max-w-sm md:max-w-lg">
+				{t("hero_description")}
+			</p>
+		</div>
+		<!-- hero image -->
+		<div
+			class="mx-auto max-w-[260px] justify-center md:max-w-md md:justify-end"
+			data-aos="fade-down"
+		>
+			<Image src={heroImage} class="max-w-full" alt="hero" loading="eager" width={600} />
+		</div>
+	</div>
+</section>
