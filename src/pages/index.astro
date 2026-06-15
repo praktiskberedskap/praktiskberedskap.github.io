@@ -12,7 +12,7 @@ const currLocale = getLocaleFromUrl(Astro.url);
 const siteData = getTranslatedData("siteData", currLocale);
 
 const posts = await getAllPosts(currLocale);
-const recentPosts = formatPosts(posts, { limit: 3 });
+const recentPosts = formatPosts(posts, { limit: 7 });
 ---
 
 <BaseLayout title={siteData.title} description={siteData.description}>
