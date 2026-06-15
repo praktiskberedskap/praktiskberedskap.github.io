@@ -6,7 +6,7 @@ const allCategories = posts.map((post) => post.data.categories).flat();
 const countedCategories = countItems(allCategories);
 const processedCategories = sortByValue(countedCategories);
 
-const categoryOrder = ["vann-og-mat", "lys-og-varme", "mental-beredskap"];
+const categoryOrder = ["vann-og-mat", "lys-og-varme", "mental-beredskap", "kommunikasjon"];
 processedCategories.sort(([a], [b]) => categoryOrder.indexOf(a) - categoryOrder.indexOf(b));
 
 const sentenceCase = (str: string) =>
