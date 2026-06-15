@@ -15,6 +15,9 @@ export default defineConfig({
 	output: 'static',
 	redirects: {
 		"/admin": "/keystatic",
+		"/vann-og-mat/slik-lagrer-du-vann/": "/blog/slik-lagrer-du-vann/",
+		"/lys-og-varme/hvordan-varme-mat-nar-strommen-er-borte/": "/blog/hvordan-varme-mat-nar-strommen-er-borte/",
+		"/mental-beredskap/mental-egenberedskap-og-resiliens/": "/blog/mental-egenberedskap-og-resiliens/"
 	},
 	// i18n configuration must match src/config/translationData.json.ts
 	i18n: {
