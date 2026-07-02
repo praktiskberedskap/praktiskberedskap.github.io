@@ -56,9 +56,18 @@ if (type === "blog") {
 }
 // for general pages
 else {
-	jsonLD = jsonLDGenerator({
-		type: "general",
-	});
+    if (image) {
+        optimizedImage = await getImage({
+            src: image,
+            format: "webp",
+            quality: "high",
+            width: 1200,
+        });
+    }
+
+    jsonLD = jsonLDGenerator({
+        type: "general",
+    });
 }
 
 function trimEndSlash(str: string) {
