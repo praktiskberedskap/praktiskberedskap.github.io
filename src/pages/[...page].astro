@@ -5,6 +5,7 @@ import { filterCollectionByLanguage } from "@js/localeUtils";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import { type InferGetStaticPropsType } from "astro";
 import { type CollectionEntry, getCollection, render } from "astro:content";
+import { Image } from "astro:assets";
 
 export async function getStaticPaths() {
 	const otherPages: CollectionEntry<"otherPages">[] = await getCollection(
@@ -32,16 +33,27 @@ const page = Astro.props as Props;
 
 // convert markdown to html
 const { Content } = await render(page);
-const { title, description } = page.data;
+const { title, description, heroImage } = page.data;
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} heroImage={heroImage}>
 	<div class="site-container">
 		<div class="mx-auto max-w-3xl pt-24 md:pt-36">
 			<h1 class="h1 text-center">
 				{title}
 			</h1>
 			<hr class="bg-primary-600/50 mx-auto mt-4 max-w-[30%] rounded-full border-none pt-1" />
+			{heroImage && (
+			<Image
+				src={heroImage}
+				alt={title}
+				width={1600}
+				quality="high"
+				class="mt-8 max-h-[40vh] w-full rounded-lg object-cover"
+				loading="eager"
+				format="webp"
+			/>
+		)}
 			<section class="text-base-content markdown-content max-w-none px-0 py-6 text-sm md:text-base">
 				<Content components={{ a: ExternalLink }} />
 			</section>
