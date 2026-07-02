@@ -11,7 +11,7 @@ const siteData: SiteDataProps = {
 	author: {
 		name: "Per Øyvind",
 		email: "test@test.no",
-		twitter: "Twittertest",
+		twitter: "Twittertesten",
 	},
 
 	// default image for meta tags if the page doesn't have an image already
