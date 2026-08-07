@@ -127,3 +127,7 @@
 		@apply rotate-180;
 	}
 }
+/* styling for bildetekst */
+figcaption {
+    @apply mt-1 text-center text-sm text-base-500 italic;
+}
