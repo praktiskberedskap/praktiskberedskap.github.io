@@ -58,3 +58,24 @@ import interVariable from "@fontsource-variable/inter/files/inter-latin-wght-nor
 
 <!-- no fallback as I saw issues with firefox fallback -->
 {siteSettings.useViewTransitions && <ClientRouter fallback="none" />}
+<!-- Google Analytics med consent mode -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MDWDS23WJC"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    
+    // Standard samtykke - avslått inntil brukeren godtar
+    gtag('consent', 'default', {
+        'analytics_storage': 'denied'
+    });
+    
+    gtag('js', new Date());
+    gtag('config', 'G-MDWDS23WJC');
+    
+    // Global funksjon som kalles når brukeren godtar cookies
+    window.consentGranted = function() {
+        gtag('consent', 'update', {
+            'analytics_storage': 'granted'
+        });
+    }
+</script>

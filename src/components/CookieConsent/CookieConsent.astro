@@ -23,15 +23,15 @@ const currLocale = getLocaleFromUrl(Astro.url);
 	>
 		<div class="text-center">
 			<p class="text-sm lg:text-base">
-				We use cookies to improve your experience on this site. To learn more, see our <a
+				Vi bruker informasjonskapsler for å forbedre din opplevelse. Les mer i vår <a
 					href={getLocalizedRoute(currLocale, "/privacy-policy")}
-					class="text-primary-600 hover:text-primary-800 underline transition">Privacy Policy</a
+					class="text-primary-600 hover:text-primary-800 underline transition">personvernerklæring</a
 				>.
 			</p>
 		</div>
 		<div class="mx-auto flex gap-2">
-			<Button variant="primary" type="button">Accept</Button>
-			<Button variant="ghost" type="button">Decline</Button>
+			<Button variant="primary" type="button">Godta</Button>
+			<Button variant="ghost" type="button">Avslå</Button>
 		</div>
 	</div>
 </div>
@@ -74,7 +74,7 @@ const currLocale = getLocaleFromUrl(Astro.url);
 
 			// call global function (head defined) to update GA4 or other analytics
 			// Example here https://webreaper.dev/posts/google-tag-manager-cookie-consent/
-			// consentGranted();
+			consentGranted();
 		});
 
 		// If the user clicks the decline button, hide the banner and set a cookie
