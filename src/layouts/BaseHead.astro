@@ -78,8 +78,8 @@ import interVariable from "@fontsource-variable/inter/files/inter-latin-wght-nor
         });
     }
 
-    // Send sidevisning ved hver navigasjon, inkludert view transitions
-    document.addEventListener('astro:page-view', () => {
+    // Send sidevisning ved første innlasting
+    document.addEventListener('astro:page-load', () => {
         gtag('event', 'page_view', {
             page_title: document.title,
             page_location: window.location.href,
