@@ -62,19 +62,27 @@ import interVariable from "@fontsource-variable/inter/files/inter-latin-wght-nor
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    
-    // Standard samtykke - avslått inntil brukeren godtar
+
     gtag('consent', 'default', {
         'analytics_storage': 'denied'
     });
-    
+
     gtag('js', new Date());
-    gtag('config', 'G-MDWDS23WJC');
-    
-    // Global funksjon som kalles når brukeren godtar cookies
+    gtag('config', 'G-MDWDS23WJC', {
+        send_page_view: false
+    });
+
     window.consentGranted = function() {
         gtag('consent', 'update', {
             'analytics_storage': 'granted'
         });
     }
+
+    // Send sidevisning ved hver navigasjon, inkludert view transitions
+    document.addEventListener('astro:page-view', () => {
+        gtag('event', 'page_view', {
+            page_title: document.title,
+            page_location: window.location.href,
+        });
+    });
 </script>
