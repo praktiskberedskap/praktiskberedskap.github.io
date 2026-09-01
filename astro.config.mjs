@@ -54,7 +54,7 @@ export default defineConfig({
             filter: (page) => !page.includes('/tags/'),
         }),
 		compress({
-			HTML: true,
+			HTML: false,
 			JavaScript: true,
 			CSS: false, // enabling this can cause issues
 			Image: false, // astro:assets handles this. Enabling this can dramatically increase build times
